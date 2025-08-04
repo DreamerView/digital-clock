@@ -2,8 +2,6 @@
 
 A simple digital clock built with HTML, CSS, and JavaScript, featuring a clean 7-segment-style display and automatic highlighting of the current day of the week.
 
-![Preview](preview.png)
-
 ## Features
 
 * Real-time digital clock display (HH\:MM)
